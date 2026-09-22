@@ -22,6 +22,8 @@ void PracticeCase10();
 void PracticeCase11();
 void PracticeCase12();
 void PracticeCase13();
+void ThirdCase();
+void ForthCase();
 
 int main() 
 {
@@ -45,6 +47,8 @@ int main()
 	//PracticeCase10();
 	//PracticeCase11();
 	//PracticeCase12();
-	PracticeCase13();
+	//PracticeCase13();
+	//ThirdCase();
+	ForthCase();
 	return 0;
 }
