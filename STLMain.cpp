@@ -19,6 +19,9 @@ void PracticeCase7();
 void PracticeCase8();
 void PracticeCase9();
 void PracticeCase10();
+void PracticeCase11();
+void PracticeCase12();
+void PracticeCase13();
 
 int main() 
 {
@@ -39,6 +42,9 @@ int main()
 	//PracticeCase7();
 	//PracticeCase8();
 	//PracticeCase9();
-	PracticeCase10();
+	//PracticeCase10();
+	//PracticeCase11();
+	//PracticeCase12();
+	PracticeCase13();
 	return 0;
 }
